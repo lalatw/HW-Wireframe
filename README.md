@@ -6,7 +6,7 @@ https://lalatw.github.io/HW-Wireframe/
 
 
 # Images
-![wireframe assignment](https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCBSAN201807FSF4-FT/raw/master/01-week/homework/part-1/Images/Easier-Layout.png) 
+![wireframe assignment](image.png) 
 
 # Technology used
 * html
@@ -41,6 +41,11 @@ https://lalatw.github.io/HW-Wireframe/
 
 
 # Learning points
+* Use “div” and “section” tags to group content or elements in HTML.
+* Use “class” attribute to define certain elements or content along with “div” or “section” so as to better style them with CSS.
+* Apply CSS Box Model concept to change layout by adjusting margin, padding, etc.
+* Define font and color in CSS to present the desired design.
+* Use CSS “float” and “clear” to align elements.
 
 
 
